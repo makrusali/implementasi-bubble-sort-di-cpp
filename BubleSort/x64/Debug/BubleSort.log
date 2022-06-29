@@ -1,0 +1,3 @@
+﻿  BubleSort.cpp
+C:\Users\Makrus Ali\source\repos\BubleSort\BubleSort\BubleSort.cpp(36,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BubleSort.vcxproj -> C:\Users\Makrus Ali\source\repos\BubleSort\x64\Debug\BubleSort.exe
